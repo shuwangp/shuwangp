@@ -45,19 +45,11 @@ Hello My name Supanat Wongwanich
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuwangp&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shuwangp&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
----
 
 ## 📫 Contact Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)
+- Email: Zlag112288@gmail.com)
+- LinkedIn: [[your-linkedin](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/supanat-wongwanich-023b07370/)
 - Facebook: [your-facebook](https://facebook.com/yourprofile)
 - Twitter/X: [your-twitter](https://twitter.com/yourprofile)
 
