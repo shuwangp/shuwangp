@@ -48,16 +48,11 @@ Hello My name Supanat Wongwanich
 
 ## 📫 Contact Me
 
-- Email: Zlag112288@gmail.com)
-- LinkedIn: [[your-linkedin](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/supanat-wongwanich-023b07370/)
+- Email: Zlag112288@gmail.com
+- LinkedIn: https://www.linkedin.com/in/supanat-wongwanich-023b07370/
 - Facebook: [your-facebook](https://facebook.com/yourprofile)
-- Twitter/X: [your-twitter](https://twitter.com/yourprofile)
-
 ---
 
-> _"คำคมที่สร้างแรงบันดาลใจประจำตัวคุณ"_
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
