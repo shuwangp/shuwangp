@@ -28,7 +28,6 @@ Hello My name Supanat Wongwanich
 ## 🏆 Achievement Badges
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuwangp&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Profile Views](https://komarev.com/ghpvc/?username=shuwangp&color=blue)
 <!-- เพิ่ม badge อื่น ๆ ได้ตามต้องการ -->
 
 ---
