@@ -9,12 +9,9 @@
 
 Hello My name Supanat Wongwanich  
 - 🌱 education: phayao university Computer science 
-- 🧑‍🎓 ความสนใจ: [งานอดิเรก/เทคโนโลยีที่ชอบ]
-- 📝 [Blog หรือเว็บไซต์ส่วนตัว](https://yourblog.com) (ถ้ามี)
+- 🧑‍🎓 ความสนใจ: []
 
 ---
-
-## ควย
 
 ## 🚀 Skills
 
