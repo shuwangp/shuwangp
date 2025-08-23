@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm [ชื่อของคุณ]</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D3DD&center=true&width=480&lines=Welcome+to+my+GitHub+Profile!;Let's+explore+my+projects+%F0%9F%9A%80" alt="Welcome typing animation" />
+</p>
 
-<!--
-**shuwangp/shuwangp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+สวัสดีครับ/ค่ะ! ผม/ฉันชื่อ **[ชื่อของคุณ]**  
+- 💼 ทำงานเป็น: [ตำแหน่งงาน/อาชีพ/นักศึกษา]
+- 🌱 กำลังศึกษา/เรียนรู้เกี่ยวกับ: [เทคโนโลยี/สาขาที่สนใจ]
+- 🧑‍🎓 ความสนใจ: [งานอดิเรก/เทคโนโลยีที่ชอบ]
+- 📝 [Blog หรือเว็บไซต์ส่วนตัว](https://yourblog.com) (ถ้ามี)
+
+---
+
+## 🚀 Skills
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+<!-- เพิ่มหรือเปลี่ยนทักษะตามจริงได้เลย -->
+
+---
+
+## 🏆 Achievement Badges
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuwangp&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=shuwangp&color=blue)
+<!-- เพิ่ม badge อื่น ๆ ได้ตามต้องการ -->
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Project 1 | โปรเจกต์เด่นของฉัน | [ดูเพิ่มเติม](https://github.com/shuwangp/project1) |
+| Project 2 | โปรเจกต์ที่น่าสนใจ | [ดูเพิ่มเติม](https://github.com/shuwangp/project2) |
+<!-- เพิ่มโปรเจกต์จริงของคุณได้เลย! -->
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuwangp&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shuwangp&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+---
+
+## 📫 Contact Me
+
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)
+- Facebook: [your-facebook](https://facebook.com/yourprofile)
+- Twitter/X: [your-twitter](https://twitter.com/yourprofile)
+
+---
+
+> _"คำคมที่สร้างแรงบันดาลใจประจำตัวคุณ"_
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
