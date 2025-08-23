@@ -14,6 +14,8 @@ Hello My name Supanat Wongwanich
 
 ---
 
+## ควย
+
 ## 🚀 Skills
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -22,7 +24,6 @@ Hello My name Supanat Wongwanich
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 <!-- เพิ่มหรือเปลี่ยนทักษะตามจริงได้เลย -->
 
 ---
