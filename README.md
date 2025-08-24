@@ -8,8 +8,8 @@
 ## 🧑‍💻 About Me
 
 Hello My name Supanat Wongwanich  
-- 🌱 education: phayao university Computer science 
-- 🧑‍🎓 ความสนใจ: []
+- 🏛 education: phayao university Computer science 
+-  ความสนใจ: []
 
 ---
 
