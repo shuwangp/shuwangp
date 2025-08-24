@@ -8,7 +8,8 @@
 ## 🧑‍💻 About Me
 
 Hello My name Supanat Wongwanich  
-- 🏛 education: phayao university Computer science 
+Age: 22 
+-  🏛 education: phayao university of Computer science 
 -  ความสนใจ: []
 
 ---
