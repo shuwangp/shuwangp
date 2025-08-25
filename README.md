@@ -1,6 +1,6 @@
 <h1 align="center ">Shuwang </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D3DD&center=true&width=480&lines=Welcome+to+my+GitHub+Profile!;Let's+explore+my+projects+%F0%9F%9A%80" alt="Welcome typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D3DD&center=true&width=480&lines=Welcome+to+my+GitHub+Profile!;" alt="Welcome typing animation" />
 </p>
 
 ---
