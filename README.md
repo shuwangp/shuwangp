@@ -6,11 +6,10 @@
 ---
 
 ## 🧑‍💻 About Me
+i'm Supanat Wongwanich Age: 22 
 
-Hello My name Supanat Wongwanich  
-Age: 22 
--  🏛 education: phayao university of Computer science 
--  ความสนใจ: []
+education: phayao university of Computer science 
+
 
 ---
 
@@ -18,7 +17,6 @@ Age: 22
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
