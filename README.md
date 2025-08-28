@@ -35,7 +35,7 @@ education: phayao university of Computer science
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Project 1 | โปรเจกต์เด่นของฉัน | [ดูเพิ่มเติม](https://github.com/shuwangp/project1) |
+| Project 1 | โปรเจกต์เด่นของฉัน | [ดูเพิ่มเติม](https://github.com/shuwangp/Busproject-V2/Project1) |
 | Project 2 | โปรเจกต์ที่น่าสนใจ | [ดูเพิ่มเติม](https://github.com/shuwangp/project2) |
 <!-- เพิ่มโปรเจกต์จริงของคุณได้เลย! -->
 
