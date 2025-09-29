@@ -38,7 +38,7 @@ I'm looking for opportunity in the internship
 | Project | Description | Link |
 |---------|-------------|------|
 | Project 1 | BusProject | [ดูเพิ่มเติม](https://github.com/shuwangp/Busproject-V2/) |
-| Project 2 | IdeaBubble AI-Assist | [Link web ]((https://github.com/shuwangp/ideabubble_AI-assist)) |
+| Project 2 | IdeaBubble AI-Assist | [ดูเพิ่มเติม]((https://github.com/shuwangp/ideabubble_AI-assist)) |
 <!-- เพิ่มโปรเจกต์จริงของคุณได้เลย! -->
 
 ---
