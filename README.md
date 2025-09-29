@@ -10,9 +10,9 @@ i'm Supanat Wongwanich Age: 22
 
 education: phayao university of Computer science 
 
+
+
 I'm looking for opportunity in the internship 
-
-
 ---
 
 ## 🚀 Skills
@@ -33,7 +33,7 @@ I'm looking for opportunity in the internship
 
 ---
 
-## 📂 Featured Projects
+## 📂 My Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
